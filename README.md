@@ -13,7 +13,7 @@ Stopping. Best iteration:<br>
 and train iris by xgb.cv in Python <br>
 <br>
    train-merror-mean  test-merror-mean<br>
-0           0.046667          0.046667<br>
+           0.046667          0.046667<br>
 <br><br>
 the params of r and python are same <br>
 xgb_params=list( 	
