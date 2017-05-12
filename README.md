@@ -14,10 +14,13 @@ Stopping. Best iteration:<br>
 ```sh
    train-merror-mean  test-merror-mean<br>
            0.046667          0.046667<br>
+```
 
 the params of r and python are same <br>
-xgb_params=list( 	<br>
-  objective="multi:softmax",<br>
+
+```sh
+xgb_params=list( 	
+  objective="multi:softmax",
   eta= 0.01, <br>
   max_depth= 1, 
   colsample_bytree= 0.7,
