@@ -15,14 +15,17 @@ Stopping. Best iteration:<br>
    train-merror-mean  test-merror-mean<br>
            0.046667          0.046667<br>
 ```
+<br>
+```sh
 the params of r and python are same <br>
 xgb_params=list( 	<br>
   objective="multi:softmax",<br>
   eta= 0.01, <br>
-  max_depth= 1, <br>
-  colsample_bytree= 0.7,<br>
-  subsample = 0.7,<br>
-  num_class = 3)<br>
+  max_depth= 1, 
+  colsample_bytree= 0.7,
+  subsample = 0.7
+  num_class = 3)
+```
 <br><br>
 results are different, if we use other data, that will more different, but we don't know why
 <br><br><br>
