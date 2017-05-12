@@ -21,7 +21,7 @@ the params of r and python are same <br>
 ```sh
 xgb_params=list( 	
   objective="multi:softmax",
-  eta= 0.01, <br>
+  eta= 0.01, 
   max_depth= 1, 
   colsample_bytree= 0.7,
   subsample = 0.7
