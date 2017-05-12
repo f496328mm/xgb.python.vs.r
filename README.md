@@ -1,6 +1,6 @@
 # xgb_python_vs_r
 
-the xgboost in python and r is different<br>
+the xgb.cv in python and r is different<br>
 
 for example:<br>
 # we train iris dataset by xgb.cv in R <br> 
