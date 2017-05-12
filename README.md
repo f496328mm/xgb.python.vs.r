@@ -14,8 +14,8 @@ Stopping. Best iteration:<br>
 ```sh
    train-merror-mean  test-merror-mean<br>
            0.046667          0.046667<br>
-```
-<br>
+```<br>
+
 ```sh
 the params of r and python are same <br>
 xgb_params=list( 	<br>
