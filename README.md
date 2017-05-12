@@ -1,4 +1,4 @@
-# xgb.python.vs.r
+# xgb_python_vs_r
 
 the xgboost in python or r is different<br>
 
