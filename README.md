@@ -9,7 +9,7 @@ for example:<br>
 [3]     train-merror:0.040000+0.016330  test-merror:0.046667+0.024944 <br>
 Stopping. Best iteration:<br>
 [2]     train-merror:0.056667+0.028674  test-merror:0.040000+0.028284<br>
-<br>
+
 # train iris by xgb.cv in Python <br>
 <br>
    train-merror-mean  test-merror-mean<br>
