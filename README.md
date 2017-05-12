@@ -30,29 +30,27 @@ results are different, if we use other data, that will more different, but we do
 
 ================================================<br>
 PS:<br>
-R version 3.4.0 (2017-04-21)<br>
-Platform: x86_64-w64-mingw32/x64 (64-bit)<br>
-Running under: Windows 10 x64 (build 15063)<br>
-<br>
-Matrix products: default<br>
+R version 3.3.3 (2017-03-06)   <br>
+Platform: x86_64-pc-linux-gnu (64-bit)<br>
+Running under: Ubuntu 16.04.2 LTS<br>
 <br>
 locale:<br>
-[1] LC_COLLATE=Chinese (Traditional)_Taiwan.950 <br>
-[2] LC_CTYPE=Chinese (Traditional)_Taiwan.950   <br>
-[3] LC_MONETARY=Chinese (Traditional)_Taiwan.950<br>
-[4] LC_NUMERIC=C                                <br>
-[5] LC_TIME=Chinese (Traditional)_Taiwan.950    <br>
+ [1] LC_CTYPE=zh_TW.UTF-8       LC_NUMERIC=C               LC_TIME=zh_TW.UTF-8       <br>
+ [4] LC_COLLATE=zh_TW.UTF-8     LC_MONETARY=zh_TW.UTF-8    LC_MESSAGES=zh_TW.UTF-8   <br>
+ [7] LC_PAPER=zh_TW.UTF-8       LC_NAME=C                  LC_ADDRESS=C              <br>
+[10] LC_TELEPHONE=C             LC_MEASUREMENT=zh_TW.UTF-8 LC_IDENTIFICATION=C       <br>
 <br>
 attached base packages:<br>
 [1] stats     graphics  grDevices utils     datasets  methods   base     <br>
 <br>
 other attached packages:<br>
-[1] dplyr_0.5.0       data.table_1.10.4 xgboost_0.6-4    <br>
+[1] Matrix_1.2-8      mice_2.30         timeDate_3012.100 xgboost_0.6-4     dplyr_0.5.0      <br>
+[6] data.table_1.10.4<br>
 <br>
 loaded via a namespace (and not attached):<br>
- [1] compiler_3.4.0   R6_2.2.0         assertthat_0.2.0 magrittr_1.5    <br>
- [5] Matrix_1.2-9     DBI_0.6-1        tools_3.4.0      tibble_1.3.0    <br>
- [9] Rcpp_0.12.10     stringi_1.1.5    grid_3.4.0       lattice_0.20-35 <br>
+ [1] Rcpp_0.12.10    lattice_0.20-35 assertthat_0.1  MASS_7.3-45     grid_3.3.3     <br>
+ [6] R6_2.2.0        DBI_0.6-1       magrittr_1.5    stringi_1.1.5   rpart_4.1-10   <br>
+[11] splines_3.3.3   tools_3.3.3     survival_2.41-3 nnet_7.3-12     tibble_1.3.0  <br>
 
 <br><br><br>
 python<br>
