@@ -5,15 +5,15 @@ the xgboost in python and r is different<br>
 for example:<br>
 # we train iris dataset by xgb.cv in R <br> 
 ```sh
-[2]     train-merror:0.056667+0.028674  test-merror:0.040000+0.028284 <br>
-[3]     train-merror:0.040000+0.016330  test-merror:0.046667+0.024944 <br>
-Stopping. Best iteration:<br>
-[2]     train-merror:0.056667+0.028674  test-merror:0.040000+0.028284<br>
+[2]     train-merror:0.056667+0.028674  test-merror:0.040000+0.028284 
+[3]     train-merror:0.040000+0.016330  test-merror:0.046667+0.024944 
+Stopping. Best iteration:
+[2]     train-merror:0.056667+0.028674  test-merror:0.040000+0.028284
 ```
 # train iris by xgb.cv in Python <br>
 ```sh
-   train-merror-mean  test-merror-mean<br>
-           0.046667          0.046667<br>
+   train-merror-mean  test-merror-mean
+           0.046667          0.046667
 ```
 
 the params of r and python are same <br>
